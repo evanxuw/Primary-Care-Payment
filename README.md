@@ -19,13 +19,13 @@ The necessity to claim earned but uncollected revenue is paramount for the finan
 
 ### Executing program
 
-* data flow diagram: visualize the data flow process: interative and iterative process to map out data flows in the system 
+* Data Flow Diagram: visualize the data flow process: interative and iterative process to map out data flows in the system 
 
 ![Data Flow Diagram]<img src='dataflowdiagram.PNG'>
 
-* [SQL Script to produce a CSV file that feeds into POWERBI for visualization] (Primary-Care-Payment/SQLFinalized.sql)
+* SQL Script to produce a CSV file that feeds into POWERBI for visualization ([Primary-Care-Payment/SQLFinalized.sql](https://github.com/evanxuw/Primary-Care-Payment/blob/main/SQLFinalized.sql))
 
-* 
+* Python File to Clean up format- priority appt list (https://github.com/evanxuw/Primary-Care-Payment/blob/main/clean.py)
 
 
 * Step-by-step bullets
