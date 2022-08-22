@@ -1,6 +1,6 @@
 # Primary Care Payment 
 
-The purpose of the project is to visualize the total 
+The purpose of the project is to develop a data pipeline to visualize primary care payment for the hospitals. 
 
 ## Description
 
@@ -21,7 +21,11 @@ The necessity to claim earned but uncollected revenue is paramount for the finan
 
 * data flow diagram: visualize the data flow process: interative and iterative process to map out data flows in the system 
 
-![Data Flow Diagram]<img src='dataflowdiagram.PNG'> (/../Primary-Care_Payment/dataflowdiagram.PNG)
+![Data Flow Diagram]<img src='dataflowdiagram.PNG'>
+
+* [SQL Script to produce a CSV file that feeds into POWERBI for visualization] (Primary-Care-Payment/SQLFinalized.sql)
+
+* 
 
 
 * Step-by-step bullets
