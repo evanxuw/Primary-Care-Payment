@@ -4,7 +4,7 @@ The purpose of the project is to develop a data pipeline to visualize primary ca
 
 ## Description
 
-The necessity to claim earned but uncollected revenue is paramount for the financial well-being of the hospitals. Uncollected funds affect resources available to patients
+Understanding revenue is paramount for the financial well-being of various hospitals/clinics/programs. The financial class payor mix and the various departments and cost centers that make up Community Oriented Primary Care, Whole Person Integrated Care, Primary Care, and Specialty Care create a blended reimbursement schedule that is often difficult to understand outside of Finance and Accounting. Uncollected funds affect resources available to patients
 
 ## Getting Started
 
@@ -16,7 +16,6 @@ The necessity to claim earned but uncollected revenue is paramount for the finan
 
 * PowerBI- Desktop Version 
 
-
 ### Executing program
 
 * Data Flow Diagram: visualize the data flow process: interative and iterative process to map out data flows in the system 
@@ -26,7 +25,6 @@ The necessity to claim earned but uncollected revenue is paramount for the finan
 * SQL Script to produce a CSV file that feeds into POWERBI for visualization ([Primary-Care-Payment/SQLFinalized.sql](https://github.com/evanxuw/Primary-Care-Payment/blob/main/SQLFinalized.sql))
 
 * Python File to Clean up format- priority appt list (https://github.com/evanxuw/Primary-Care-Payment/blob/main/clean.py)
-
 
 * Step-by-step bullets
 ```
@@ -40,9 +38,17 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
+## snapshots of PowerBI data modeling and dashboards 
+
+*[dashboard on visitor across clinics] <img src='RP.PNG'>
+*[data modeling] <img src='dm.PNG'>
+
+## Next Steps and bottlenecks
+* We still need to work with clinics to figure out what operation issues clinics have before optimizing DB and developing a sophisticated modeling.  
+
 ## Authors
 
-Evan Xu
+Evan Xu, Maricar 
 
 [@](https://twitter.com/)
 
