@@ -4,7 +4,7 @@ The purpose of the project is to develop a data pipeline to visualize primary ca
 
 ## Description
 
-Understanding revenue is paramount for the financial well-being of various hospitals/clinics/programs. The financial class payor mix and the various departments and cost centers that make up Community Oriented Primary Care, Whole Person Integrated Care, Primary Care, and Specialty Care create a blended reimbursement schedule that is often difficult to understand outside of Finance and Accounting. Uncollected funds affect resources available to patients
+Understanding revenue is paramount for the financial well-being of various hospitals/clinics/programs. Uncollected funds decrease resources available to patients.  In addition, different insurance systems and the various departments and cost centers create a blended reimbursement schedule that is often difficult to understand. Therefore, creating a system that is easily accessible to clinics and finance staff is essential. This project will be built in different phases. 
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Evan Xu, Maricar 
+Evan Xu
 
 [@](https://twitter.com/)
 
