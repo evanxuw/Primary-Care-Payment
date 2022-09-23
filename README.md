@@ -40,8 +40,8 @@ command to run if program contains helper info
 
 ## snapshots of PowerBI data modeling and dashboards 
 
-*[overview] <img src ='overview.PNG'>
-*[dashboard on visitor across clinics] <img src='RP.PNG'>
+*[dashboard on overview] <img src ='overview.PNG'>
+*[dashboard on revenue projection ] <img src='RP.PNG'>
 *[data modeling] <img src='datamodeling.PNG'>
 
 ## Next Steps and bottlenecks
