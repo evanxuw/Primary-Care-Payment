@@ -40,8 +40,9 @@ command to run if program contains helper info
 
 ## snapshots of PowerBI data modeling and dashboards 
 
+*[overview] <img src ='overview.PNG'>
 *[dashboard on visitor across clinics] <img src='RP.PNG'>
-*[data modeling] <img src='dm.PNG'>
+*[data modeling] <img src='datamodeling.PNG'>
 
 ## Next Steps and bottlenecks
 * We still need to work with clinics to figure out what operation issues clinics have before optimizing DB and developing a sophisticated modeling.  
